@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jenna 👋
 
 <!--
 **jennaleonard/jennaleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧑🏽‍🎨 ➡️ 👩🏽‍💻 I'm a graphic designer turned dev with a passion for music and visual arts. Since 2020, I've been honing my skills with front end and full stack development.
+- 📫 How to reach me: [jleonardweb@gmail.com](mailto:jleonardweb@gmail.com)
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I release music independently under the moniker [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
+- 🔭 I’m currently working on websites for my artist page, portfolio, and freelance business! 😉
+- 🌱 I’m currently digging into three.js, howler.js, and product design. 
+
+
+### Work Highlights
+
+**Q&A Media (Sept 2021-Nov 2023)**
+
+*Full Stack Engineer*
+- Helped convert the Venice distribution platform to a single component library (from Material UI to Chakra), which refreshed and unified the appearance of the brand across all web apps.
+- Collaborated with senior engineers to introduce a new audio library and ship a core marketable feature to the Venice distribution platform.
+
+**Snap Engineering Academy (Jun 2021-Aug 2021)**
+
+*Snap Engineering Academy Scholar*
+- Selected as one of 15 scholars from over 100 applicants in the Los Angeles metropolitan area for a hands-on, 8-week engineering program with Next Shift Learning, LA-Tech, and Snap Inc.
+- Collaborated in a cross-functional team of 5 peers to design and implement a new socially conscious Snap feature; pitched a product to Julie Henderson, Snap’s Chief Communications Officer.
+
+### Current Tools/Technologies:
+Javascript, CSS, HTML, React, React Native, Node, Chakra, MaterialUI, Firebase, postgreSQL, p5.js, ml5.js, RESTful APIs, yarn, Postman, Objection, Figma, AWS, Google Cloud
