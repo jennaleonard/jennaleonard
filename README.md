@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I release music independently under the moniker [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
 - 🔭 I’m currently working on websites for my artist page, portfolio, and freelance business! 😉
-- 🌱 I’m currently digging into three.js, howler.js, and product design. 
+- 🌱 I’m currently digging into flutter, three.js, howler.js, and product design. 
 
 
 ### Work Highlights
