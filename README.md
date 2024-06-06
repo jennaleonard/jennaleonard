@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [jleonardweb@gmail.com](mailto:jleonardweb@gmail.com)
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I release music independently under the moniker [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
-- 🃏 I'm the lead developer of a web3 application for the onchain summer buildathon! 
+- 🃏 I'm the lead developer of a web3 application for the [onchain summer buildathon](https://onchain-summer.devfolio.co/)! 
 - 🔭 I’m currently working on websites for my artist page, portfolio, and freelance business! 😉
-- 🌱 I’m currently digging into flutter, three.js, howler.js, and product design.
+- 🌱 I’m currently digging into next.js, web3, flutter, and three.js.
 
 ### Work Highlights
 
