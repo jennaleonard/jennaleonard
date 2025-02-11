@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧑🏽‍🎨 ➡️ 👩🏽‍💻 I'm a graphic designer turned dev with a passion for music and visual arts. Since 2020, I've been honing my skills with front end and full stack development.
+🧑🏽‍🎨 ➡️ 👩🏽‍💻 I'm a full-stack dev with a passion for music and visual arts. Since 2020, I've been honing my skills with front end and full stack development.
 - 📫 How to reach me: [jleonardweb@gmail.com](mailto:jleonardweb@gmail.com)
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I release music independently under the moniker [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
