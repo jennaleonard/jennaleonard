@@ -1,26 +1,16 @@
-### Hi, I'm Jenna 👋
+# Hi, I'm Jenna 🎸⚡️
 
-<!--
-**jennaleonard/jennaleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Designer turned dev (and more!)
+🧑🏽‍🎨 ➡️ 👩🏽‍💻 I'm a design engineer who builds brands and web experiences, with a background in music and visual arts. Since 2020, I've worked across UX/UI, front-end, and full-stack development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🧑🏽‍🎨 ➡️ 👩🏽‍💻 I'm a design engineer with a passion for music and visual arts. Since 2020, I've been honing my skills with ux/ui, front end, and full stack development.
-- 📫 How to reach me: [jleonardweb@gmail.com](mailto:jleonardweb@gmail.com)
+- 🏢 I run Avant-I/O, a design and development studio for creatives and small businesses
+- 🎨 I rebranded Lit Protocol, a web3 company, designing the brand identity, landing page, and token launch logo
+- 🃏 I was the lead developer of [NFTarot](https://www.nftarot.com/), a decentralized web app and winner of the Zora Creator Track at the [Onchain Summer Buildathon](https://onchain-summer.devfolio.co/)
+- 🔭 My personal site lives here: [jennaleonard.com](https://www.jennaleonard.com/)
+- 🌱 I'm currently learning Python and product design
+- ⚡ Fun fact: I release music independently as [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I release music independently under the moniker [jenna.](https://open.spotify.com/artist/73oDmIqzvKuVpHXakJLBMQ?si=4aRHrqa9QKOPU8tpnsHCVw)
-- 🃏 I was the lead developer of [NFTarot](https://www.nftarot.com/), a decentralized web application, winner of the Zora Creator Track from the [onchain summer buildathon](https://onchain-summer.devfolio.co/)! 
-- 🔭 I’m currently working on websites for my artist page, [portfolio](https://www.jennaleonard.com/), and freelance business! 😉
-- 🌱 I’m currently learning python, three.js, and product design.
+- 📫 Reach me: [jleonardweb@gmail.com](mailto:jleonardweb@gmail.com)
 
 ### Work Highlights
 
